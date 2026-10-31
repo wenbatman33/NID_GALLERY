@@ -1,0 +1,4 @@
+.DS_Store
+.claude/
+scripts/*.log
+scripts/*.out
